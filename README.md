@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+*Making a basic weather app with React
+![React basit project-weather App](https://github.com/muratavci05/react-weatherApp/blob/bb131c9894b7b1c1cf9d5195acd16492066e8f11/src/image/weatherAppa.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
